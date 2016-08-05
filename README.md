@@ -37,4 +37,11 @@ As an avid Sublime Text user it took me some time to make the move to Atom. I wa
     ```
 18. To set variables in snippets either use $1 or ${1:defaultname}
 19. Github integration will show you how your files appear on Github.
-20. Switching between Github and Atom.
+20. Switching between Github and Atom - super powerful MINDBLOWING shortcuts (OPTION G)
+21. Option G  (then) Up , option G (then) Down (previous and last edits in the local file.
+22. Option G (then) O - Open that line in Github
+23. Option G (then) G - Open that file in Github
+24. Option G (then) H - Show the Github history
+25. Option G (then) B - Show the blame i.e. who is responsible for that commit
+25. Option G (then) C - Then paste (to show the link on Github) e.g. http://github.com/megomars/AtomInTheBatcave/blob/14ae9868d493c59f617f287d90b6eb7560e5492d/README.md#L46
+26. git reset --hard (to go back to head). First save your file, then Option Command Z
