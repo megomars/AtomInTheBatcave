@@ -36,3 +36,5 @@ As an avid Sublime Text user it took me some time to make the move to Atom. I wa
         });"""
     ```
 18. To set variables in snippets either use $1 or ${1:defaultname}
+19. Github integration will show you how your files appear on Github.
+20. Switching between Github and Atom
