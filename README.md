@@ -50,3 +50,11 @@ As an avid Sublime Text user it took me some time to make the move to Atom. I wa
 29. apm install term3 (control alt t - OPEN IN THE TERMINAL)
 30. Markdown preview - shift command p "markdown preview"
 31. Within markdown type - Legal, Lorem, Table
+32. apm install autocomplete-plus (not sure if you still need this)
+33. Prevent emmet from pwing your snippets - go to key bindings and add this to your keymap.cson file
+'.pane .editor:not(.mini)':
+  'tab': 'snippets:expand'
+34. firepad
+35. Packages apm install linter, jshint, write-good, less auto-compile, coffee compiler, git-plus
+36. Packages apm install less auto-compile, coffee compiler
+37. Packages apm install git-plus
