@@ -45,3 +45,8 @@ As an avid Sublime Text user it took me some time to make the move to Atom. I wa
 25. Option G (then) B - Show the blame i.e. who is responsible for that commit
 25. Option G (then) C - Then paste (to show the link on Github) e.g. http://github.com/megomars/AtomInTheBatcave/blob/14ae9868d493c59f617f287d90b6eb7560e5492d/README.md#L46
 26. git reset --hard (to go back to head). First save your file, then Option Command Z
+27. Install packages - In the terminal write - apm install minimap
+28. Open atom in the terminal - type - atom
+29. apm install term3 (control alt t - OPEN IN THE TERMINAL)
+30. Markdown preview - shift command p "markdown preview"
+31. Within markdown type - Legal, Lorem, Table
