@@ -1,7 +1,7 @@
 #Atom in the Batcave
 ##100 things to know about Atom.io the Github code editor
 
-As an avid Sublime Text user it took me some time to make the move to Atom. I was just too attached to my shortcuts and dozens of code snippets that I had written over the years. I finally made the move to Atom after completing the (Tutsplus course on speedy workflows in Atom)[https://code.tutsplus.com/courses/speedy-workflows-with-atom?ec_promo=teaser_post].
+As an avid Sublime Text user it took me some time to make the move to Atom. I was just too attached to my shortcuts and dozens of code snippets that I had written over the years. I finally made the move to Atom after completing the [Tutsplus course on speedy workflows in Atom](https://code.tutsplus.com/courses/speedy-workflows-with-atom?ec_promo=teaser_post).
 
 ###Here are 100 things that you need to know about the free Github editor, atom.io
 
