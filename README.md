@@ -5,7 +5,7 @@ As an avid Sublime Text user it took me some time to make the move to Atom. I wa
 
 ###Here are 100 things that you need to know about the free Github editor, atom.io
 
-1. Download atom at atom.io
+1. Download atom at [atom.io](http://atom.io)
 2. Command O - open a project
 3. Command N - new tab
 4. Control Command F - Full screen
@@ -37,4 +37,4 @@ As an avid Sublime Text user it took me some time to make the move to Atom. I wa
     ```
 18. To set variables in snippets either use $1 or ${1:defaultname}
 19. Github integration will show you how your files appear on Github.
-20. Switching between Github and Atom
+20. Switching between Github and Atom.
