@@ -51,10 +51,12 @@ As an avid Sublime Text user it took me some time to make the move to Atom. I wa
 30. Markdown preview - shift command p "markdown preview"
 31. Within markdown type - Legal, Lorem, Table
 32. apm install autocomplete-plus (not sure if you still need this)
-33. Prevent emmet from pwing your snippets - go to key bindings and add this to your keymap.cson file
+33. Prevent emmet from pwning your snippets - go to key bindings and add this to your keymap.cson file
 '.pane .editor:not(.mini)':
   'tab': 'snippets:expand'
-34. firepad
-35. Packages apm install linter, jshint, write-good, less auto-compile, coffee compiler, git-plus
-36. Packages apm install less auto-compile, coffee compiler
-37. Packages apm install git-plus
+34. Firepad - a great collaborative coding tool
+35. Linting Packages apm install linter, jshint, write-good, less auto-compile, coffee compiler, git-plus
+36. Compiling Packages apm install less auto-compile, coffee compiler
+37. Exra github Packages apm install git-plus
+38. Bash profile  - atom ~/.bash_profile - simpleNodeServer, alias simns="simpleNodeServer"
+39. Never settle with what you're familiar with.
